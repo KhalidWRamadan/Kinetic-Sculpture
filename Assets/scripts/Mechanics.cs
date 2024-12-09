@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Mechanics : MonoBehaviour
 {
-    public float rotationSpeed = 20f; // Rotation speed in degrees per second
+    public float rotationSpeed = 20f; 
 
     private float initY;
     private float initZ;
